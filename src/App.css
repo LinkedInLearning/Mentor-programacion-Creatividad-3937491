@@ -1,0 +1,11 @@
+:root {
+
+}
+
+.react-datepicker-ignore-onclickoutside , .react-datepicker__input-container input{
+  color: #fff;
+}
+.react-datepicker-ignore-onclickoutside::placeholder ,  .react-datepicker__input-container input::placeholder{
+    color: #fff;;
+}
+
